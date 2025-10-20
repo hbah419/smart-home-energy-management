@@ -1,0 +1,5 @@
+rooms = { "Living Room": ["TV", "Lamp", "AC"],
+          "Kitchen": ["Refrigerator", "Oven", "Microwave"],
+          "Bedroom": ["Lamp", "Fan", "TV", "PlayStation"],
+          "Garage": ["Dryer", "Washer"]}
+start_time = {"datetime":(2025, 10, 1)}
